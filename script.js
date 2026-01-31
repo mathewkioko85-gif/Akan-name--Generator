@@ -7,6 +7,7 @@ function generateAkanName() {
     // Get values from the form
     const dateValue = document.getElementById("date").value;
     const gender = document.querySelector('input[name="gender"]:checked')?.value;
+    
 
     // 1. Validation (Required for Rubric)
     if (!dateValue || !gender) {
@@ -52,3 +53,4 @@ function generateAkanName() {
     // Add polish: show the result container
     document.getElementById("result-container").style.display = "block";
 }
+
