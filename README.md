@@ -7,7 +7,7 @@ This project demonstrates the use of HTML forms, CSS styling, and JavaScript log
 
 ---
 
-## Author(s)
+## Author
 MATHEW KIOKO
 
 ---
