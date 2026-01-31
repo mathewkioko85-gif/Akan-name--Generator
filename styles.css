@@ -6,6 +6,10 @@
     --light: #0fb41d;
 }
 
+
+
+
+
 body {
     font-family: 'Poppins', sans-serif;
     background-color: silver;
@@ -103,4 +107,5 @@ button:hover {
 #result {
     color: var(--primary-green);
     font-size: 1.1rem;
+
 }
