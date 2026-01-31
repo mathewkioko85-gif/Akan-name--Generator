@@ -45,7 +45,7 @@ No additional installations are required.
 
 ## Live Site
 👉 **GitHub Pages Link:**  
-(Add your deployed GitHub Pages URL here)
+ https://mathewkioko85-gif.github.io/Akan-name--Generator/
 
 ---
 
