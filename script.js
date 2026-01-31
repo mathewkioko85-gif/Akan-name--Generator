@@ -1,6 +1,7 @@
 /**
  * Akan Name Generator Logic
  * Formula: d = ( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD ) mod 7
+ 
  */
 
 function generateAkanName() {
@@ -53,4 +54,5 @@ function generateAkanName() {
     // Add polish: show the result container
     document.getElementById("result-container").style.display = "block";
 }
+
 
